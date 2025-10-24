@@ -1,9 +1,0 @@
-{
-  "name": "skills-secure-repository-supply-chain",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Root package.json to allow GitHub Dependency Graph to index dependencies for the lab",
-  "dependencies": {
-    "follow-redirects": "1.14.1"
-  }
-}
